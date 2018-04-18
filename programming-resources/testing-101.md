@@ -56,9 +56,9 @@ Test Cases are the simplest possible example of something called a __higher orde
   * ARGS: 1
     * testee: function
   * RETURN: boolean
-  * BEHAVIOR: Executes testee with a hard-coded set of arguments and compares the returned value against an expected result.  Returns true or fals according to the comparison.
+  * BEHAVIOR: Executes testee with a hard-coded set of arguments and compares the returned value against an expected result.  Returns true or false according to the comparison.
 
-These are the atoms of all testing.  You build test cases for each function (or method) based on it's specs.
+These are the atoms of all testing.  You build test cases for each function (or method) based on its specs.
   
 Below is a series of _Test Cases_ for the division function.  Coming up with a good collection of test cases means determining what are the important classifications of input/output pairs and testing each one.  The principle is very simple. Coming up with them is easy but time consuming.  Coming up with good ones is challenging and worth the effort.  There is no better way to understand a function than coming up with a good set of test cases.  
 
