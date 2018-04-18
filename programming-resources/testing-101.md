@@ -325,7 +325,7 @@ TDD Resources:
 * [Hontas Bowling](https://github.com/hontas/bowling-game-kata)
 
 ### Behavior Driven Development
-BDD and TDD work very well together.  BDD says that before you start writing your tests, you should plan appliation behaviors with users, marketers, and managment.  Then you move on to writing code, maybe with TDD.
+BDD and TDD work very well together.  BDD says that before you start writing your tests, you should plan application behaviors with users, marketers, and managment.  Then you move on to writing code, maybe with TDD.
 * [Toptal on BDD](https://www.toptal.com/freelance/your-boss-won-t-appreciate-tdd-try-bdd)
 * [Wikipedia on BDD](https://en.wikipedia.org/wiki/Behavior-driven_development#Principles_of_BDD)
 
